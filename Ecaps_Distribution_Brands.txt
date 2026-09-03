@@ -1,0 +1,73 @@
+eCAPS DISTRIBUTION BRANDS
+Networking and Cybersecurity
+
+NATIONAL DISTRIBUTION BRANDS
+
+1. Netfox
+Netfox is eCAPS's own brand, providing AI- and ML-powered firewalls with SD-WAN and AAA, along with structured cabling, PoE switches, media converters, and networking racks.
+
+2. Kaspersky
+Provides cybersecurity protection against malware and ransomware, including real-time detection, EDR, XDR, MDR, and MSSP solutions.
+
+3. Data Resolve
+Offers Data Loss Prevention (DLP) solutions with monitoring, encryption, access control, and compliance capabilities.
+
+4. AnyDesk
+Provides fast and secure remote desktop access for device support, connectivity, and collaboration.
+
+5. SOTI
+Delivers enterprise mobility and IoT solutions with advanced device management and remote support.
+
+6. Prophaze
+Provides AI-driven cybersecurity solutions for real-time threat detection and protection of digital assets.
+
+7. SecOps Solution
+Offers vulnerability and patch management with automation, real-time visibility, risk prioritization, and compliance reporting.
+
+8. One Identity
+Provides identity security by combining IGA, access management, privileged access management, and Active Directory management.
+
+9. Fortra
+Delivers integrated cybersecurity tools for threat detection, risk management, compliance, and infrastructure protection.
+
+10. Triam - CleanStart
+Protects the software supply chain across development stages, containerized environments, and open-source ecosystems.
+
+11. Sectigo
+Provides automated certificate management, PKI, and web security solutions for trusted identities, devices, and communications.
+
+12. Aurva
+Offers real-time data visibility through DAM, DSPM, and AI observability to monitor access, detect risks, and support compliance.
+
+13. Cytrust
+Simplifies governance, risk, and compliance through AI-driven automation, real-time risk insights, and audit-ready reporting.
+
+
+REGIONAL DISTRIBUTION BRANDS
+
+1. TP-Link
+TP-Link provides networking solutions for homes and businesses, including routers, wireless access points, switches, gateways, and centrally managed Omada networking products.
+
+2. Molex
+Molex Connected Enterprise Solutions offers end-to-end copper and fibre structured cabling systems for enterprise buildings and data centres, supporting reliable and scalable connectivity.
+
+3. Netrack
+Netrack provides server racks, network racks, enclosures, cable-management products, and related infrastructure solutions for data centres and IT environments.
+
+4. SonicWall
+SonicWall delivers unified cybersecurity solutions, including next-generation firewalls, secure access, endpoint and cloud protection, and managed threat detection and response.
+
+5. Sophos
+Sophos offers integrated cybersecurity through endpoint protection, firewalls, MDR, XDR, email security, cloud security, and centralized management with Sophos Central.
+
+6. Teltonika
+Teltonika develops reliable industrial and IoT connectivity products, including 4G/5G routers, gateways, Ethernet switches, modems, access points, and remote-management solutions.
+
+7. NAKIVO
+NAKIVO provides backup, replication, and disaster-recovery solutions for virtual, physical, cloud, NAS, and Microsoft 365 workloads, with automation and ransomware-resilient protection.
+
+
+CONTACT eCAPS
+Email: info@caps.in
+Phone: 99429 22215
+Website: www.caps.in
